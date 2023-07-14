@@ -1,0 +1,32 @@
+body{
+   background-color: whitesmoke;
+}
+
+.fa{
+   color: rgb(226, 31, 1);
+}
+.icon-color{
+   color: #000;
+}
+
+.box{
+   background-color: rgb(255, 252, 252);
+   padding: 30px 5px 30px 5px;
+   margin: 30px 0px 0px 0px;
+}
+
+span{
+   font-size: 12px;
+}
+
+a{
+   border-bottom: 1px solid blue;
+}
+
+.box{
+   padding: 60px 0px;
+   text-align: center;
+}
+.boxpart{
+background-color: aliceblue;
+}
